@@ -4,7 +4,7 @@ import folium
 from folium.plugins import HeatMap
 
 # Set your OpenWeather API key here
-API_KEY = '6697398c7eb365695310277073455631'
+API_KEY = 'ENTER API KEY HERE'
 
 # Load the cities from the CSV file
 df = pd.read_csv('dfw_cities.csv')  # Make sure the CSV file is in the same directory
